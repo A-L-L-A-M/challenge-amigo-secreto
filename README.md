@@ -7,6 +7,10 @@
 - `Funcionalidade 1`: So irá sortear assim que no mínimo 4 amigos forem adicionados.
 - `Funcionalidade 2`: Campo vazio ou nome repetido não será adicionado na lista.
 
+# ✔️ Técnicas e tecnologias utilizadas
+
+- ``HTML, CSS e Javascript``
+- ``IDE vscode``
 
 <h4 align="center"> 
 	:construction:  Projeto em construção  :construction:
