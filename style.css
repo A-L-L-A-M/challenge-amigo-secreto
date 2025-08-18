@@ -28,6 +28,7 @@ body {
     flex-direction: column;
     height: 100%;
     width: 100%;
+    gap: 20px;
 }
 
 /* Banner */
@@ -39,6 +40,14 @@ body {
     padding: 40px 0 0;
     gap: 20px;
 }
+
+.img-png    {
+
+    width: 50%;
+    height: auto;
+    border-radius: 5%;
+
+    }
 
 /* Seção de entrada */
 .input-section {
@@ -160,4 +169,20 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+@media (max-width:1200px) {
+
+    .main-title{
+        justify-content: center;
+    }
+
+    .header-banner {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .main-content{
+        width: auto;
+    }
 }
