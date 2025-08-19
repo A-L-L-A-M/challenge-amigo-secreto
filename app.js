@@ -11,7 +11,7 @@ function adicionarAmigo() {
     }    
 
     if (amigo.includes(nomeDoAmigo)){
-        alert(`Nome do amigo <strong>${nomeDoAmigo}</strong> já foi incuido.`);
+        alert(`Nome do amigo ${nomeDoAmigo} já foi incuido.`);
         limparCampo();
          return;
     }
