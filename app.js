@@ -11,7 +11,7 @@ function adicionarAmigo() {
     }    
 
     if (amigo.includes(nomeDoAmigo)){
-        resultado.innerHTML = `Nome do amigo <strong>${nomeDoAmigo}</strong> já foi incuido.`
+        alert(`Nome do amigo <strong>${nomeDoAmigo}</strong> já foi incuido.);
         limparCampo();
          return;
     }
@@ -41,4 +41,5 @@ function sortearAmigo() {
 function limparCampo(){
     nomeDoAmigo = document.querySelector('input');
     nomeDoAmigo.value = '';
+
 }
