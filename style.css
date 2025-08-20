@@ -43,7 +43,7 @@ body {
 
 .img-png    {
 
-    width: 50%;
+    width: 30%;
     height: auto;
     border-radius: 5%;
 
@@ -182,7 +182,12 @@ ul {
         padding: 5%;
     }
 
+    .img-png {
+        width: 60%;
+    }
+    
     .main-content{
         width: auto;
     }
 }
+
