@@ -27,7 +27,7 @@ Durante o desenvolvimento, o foco foi criar uma **experiência interativa simple
 ## :hammer: Funcionalidades
 - **Adicionar amigo à lista**: Permite inserir o nome de um amigo, validando se o campo não está vazio e se o amigo já não foi adicionado.
 - **Evita duplicidade**: Não permite adicionar o mesmo nome duas vezes à lista.
-- **Sorteio aleatório**: Seleciona aleatoriamente um amigo da lista, desde que a quantidade mínima de amigos (4) seja atendida.
+- **Sorteio aleatório**: Seleciona aleatoriamente um amigo da lista, desde que a quantidade mínima de amigos 1 seja atendida.
 - **Mensagens de feedback**: Informa ao usuário se um amigo foi adicionado, se já existe ou se o sorteio não pode ser realizado.
 - **Limpeza do campo de input**: Limpa automaticamente o campo após cada tentativa de adicionar amigo.
 
