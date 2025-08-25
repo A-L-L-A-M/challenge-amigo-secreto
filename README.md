@@ -34,6 +34,3 @@ Durante o desenvolvimento, o foco foi criar uma **experiência interativa simple
 ## ✔ Técnicas e tecnologias utilizadas
 - **HTML, CSS e JavaScript**
 - **IDE VS Code**
-
-## 🎮 Você pode testar o Jogo
-- https://challenge-amigo-secreto-three-swart.vercel.app/
