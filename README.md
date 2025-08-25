@@ -11,7 +11,7 @@ Ele permite aplicar conceitos de:
 - Arrays para armazenar a lista de amigos.
 - Funções para organizar o código e tornar a lógica reutilizável.
 - Manipulação do DOM para exibir mensagens e resultados interativos.
-- Controle de fluxo, garantindo que apenas listas com 4 ou mais amigos possam ser sorteadas.
+- Controle de fluxo, garantindo que apenas listas de amigos possam ser sorteadas.
 
 ## 📝 Desenvolvimento
 O projeto foi desenvolvido utilizando **JavaScript, HTML e CSS**, aplicando conceitos essenciais de lógica de programação:
