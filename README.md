@@ -36,6 +36,3 @@ Durante o desenvolvimento, o foco foi criar uma **experiência interativa simple
 ## ✔ Técnicas e tecnologias utilizadas
 - **HTML, CSS e JavaScript**
 - **IDE VS Code**
-
-## 🎮 Você pode testa o Jogo
-- https://challenge-amigo-secreto-weld-five.vercel.app/
