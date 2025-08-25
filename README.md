@@ -3,6 +3,8 @@
   <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=red&style=for-the-badge"/>
 </p>
 
+![Imagem dda tela do Desafio amigo secreto](https://github.com/A-L-L-A-M/images-for-readme/blob/main/Challenge-amigo-secreto/img-challenge.png)
+
 ## 📎 Objetivo
 Este projeto tem como objetivo fortalecer habilidades em **lógica de programação** utilizando JavaScript.  
 Ele permite aplicar conceitos de:
@@ -34,3 +36,6 @@ Durante o desenvolvimento, o foco foi criar uma **experiência interativa simple
 ## ✔ Técnicas e tecnologias utilizadas
 - **HTML, CSS e JavaScript**
 - **IDE VS Code**
+
+## 🎮 Você pode testa o Jogo
+- https://challenge-amigo-secreto-weld-five.vercel.app/
