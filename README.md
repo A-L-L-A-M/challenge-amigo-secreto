@@ -20,7 +20,7 @@ O projeto foi desenvolvido utilizando **JavaScript, HTML e CSS**, aplicando conc
 - **Array (`amigo`)** para armazenar os nomes dos amigos adicionados.
 - **Funções** (`adicionarAmigo`, `sortearAmigo`, `limparCampo`) para organizar a lógica e tornar o código mais legível.
 - **Manipulação do DOM** para exibir mensagens dinâmicas na tela (`resultado.innerHTML`).
-- **Controle de fluxo** para permitir o sorteio apenas quando a lista tiver no mínimo 4 amigos.
+- **Controle de fluxo** para permitir o sorteio apenas quando a lista tiver no mínimo 1 amigos.
 - **Feedback ao usuário**: mensagens claras indicando sucesso, erro ou instruções.
 
 Durante o desenvolvimento, o foco foi criar uma **experiência interativa simples**, aplicando lógica de programação para resolver problemas reais de forma prática.
